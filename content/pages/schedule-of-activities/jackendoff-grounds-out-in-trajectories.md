@@ -23,7 +23,7 @@ Assignment
 
 On a total of one side of one sheet of paper, using 10 pt type or larger, with standard interline spacing and margins, respond to all the following:
 
-{{< resource 1b03f723-045e-6950-3c1a-c3de94c49623 "a cluster of old houses on a rocky tombolo" >}}
+{{< resource "1b03f723-045e-6950-3c1a-c3de94c49623" >}}
 
 Sveti Stefan. (Image courtesy of [Michael Jackson](https://www.flickr.com/photos/128134748@N04/15804431195/) on Flickr. License: CC BY-NC-SA.)
 
