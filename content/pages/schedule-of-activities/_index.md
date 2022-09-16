@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The calendar of topics, readings, and assignments for 6.803.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Schedule of Activities

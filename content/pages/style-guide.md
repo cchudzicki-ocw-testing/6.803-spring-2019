@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Professor Winston's personal suggestions for style improvement.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Style Guide

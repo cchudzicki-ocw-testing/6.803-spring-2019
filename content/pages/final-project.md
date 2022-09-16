@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A description of the final project for 6.833.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
